@@ -34,8 +34,10 @@
     font-family: sans-serif;
 }
 .e4_img{
-    width: 100%;
+    margin-left: 45px;
+    width: 80%;
     height: 175px;
+    border-radius: 5px;
 }
 .e4_ul_div{
     display: flex;
@@ -48,10 +50,10 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    font-size: 0.6em;
+    font-size: 0.7em;
     font-family: sans-serif;
     font-weight: bold;
-    margin-right: 15px;
+    margin-right: 25px;
 }
 .e4_graph_div {
     display:flex;
