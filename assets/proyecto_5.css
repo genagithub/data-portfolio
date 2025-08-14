@@ -24,15 +24,9 @@
     align-items:center;
     padding: 0;
 }
-.e5_div_dropdown {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
-    align-items: center;
-    width: 100%;
-}
 .e5_dropdown  {
     width:200px;
+    margin-bottom: 20px;
 }
 .e5_graph {
     width: 100%;
